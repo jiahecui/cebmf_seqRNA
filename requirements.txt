@@ -1,0 +1,8 @@
+pandas
+scanpy
+anndata
+scikit-image
+svgwrite
+jupyter
+pytest
+pylint
