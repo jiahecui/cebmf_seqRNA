@@ -6,3 +6,7 @@ svgwrite
 jupyter
 pytest
 pylint
+torch
+numpy
+matplotlib
+torchvision
