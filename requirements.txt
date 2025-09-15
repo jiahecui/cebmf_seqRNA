@@ -10,3 +10,10 @@ torch
 numpy
 matplotlib
 torchvision
+
+install Java JDK in Ubuntu
+
+sudo apt-get update
+sudo apt-get install default-jdk
+
+python-bioformats
