@@ -8,7 +8,19 @@ sudo apt-get update
 sudo apt-get install default-jdk
 ```
 
-Then install relevant python packages:
+Create a Python virtual environment:
+
+```bash
+python3 -m venv venv
+```
+
+Activate the virtual environment:
+
+```bash
+source venv/bin/activate
+```
+
+Install relevant python packages:
 
 ```bash
 pip install -r requirements.txt
